@@ -1,2 +1,3 @@
 # FareyAlgorithm
-The farey algorithm written in swift provided as a swift package
+
+A description of this package.
